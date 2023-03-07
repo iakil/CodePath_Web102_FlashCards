@@ -2,7 +2,7 @@
 
 Submitted by: **Akil Bhuiyan**
 
-This web app: **iOperating System Flashcards**
+This web app: **Operating System Flashcards**
 
 Time spent: **16** hours spent in total
 
@@ -32,17 +32,17 @@ Here's a walkthrough of implemented required features:
 
 <img src='CodePath_Web102_FlashCards/src/assets/1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<!-- Replace this with whatever GIF tool you used! 
+GIF created with ...  -->
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
+<!--  
 Describe any challenges encountered while building the app.
-
+-->
 ## License
 
     Copyright [2023] [Akil Bhuiyan]
